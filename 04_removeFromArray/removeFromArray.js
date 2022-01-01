@@ -12,4 +12,4 @@ const removeFromArray = function(arr, ...val) {
 };
 
 // Do not edit below this line
-module.exports = removeFromsArray;
+module.exports = removeFromArray;
